@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ## はじめまして
 ### 未経験からエンジニア目指してます！☪️
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ku6mi52
+)](https://github.com/anuraghazra/github-readme-stats)
