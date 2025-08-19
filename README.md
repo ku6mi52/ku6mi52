@@ -21,4 +21,3 @@ Here are some ideas to get you started:
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ku6mi52&theme=radical&column=8)](https://github.com/ryo-ma/github-profile-trophy)
-&private=true&include_all_commits=true
